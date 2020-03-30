@@ -1,0 +1,13 @@
+body {
+    background: #ffffff;
+}
+li {
+    color: deeppink;
+    border: 1px solid #FF0000;
+}
+#todo2 {
+    color: blueviolet;
+}
+.todo3 {
+    color: blue;
+}
